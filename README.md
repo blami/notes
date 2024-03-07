@@ -1,2 +1,2 @@
 # Notes
-This is my attempt to 
+This is my personal notes repository.
